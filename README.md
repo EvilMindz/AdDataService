@@ -19,3 +19,6 @@ You are to take all ad data run between January 1st, 2011 and April 1st, 2011 an
 4. The top five brands by page coverage amount. Keep in mind that a single brand may run multiple ads. Also sorted by page coverage amount (descending), then brand name alphabetically.
 
 You may use any resources you wish to accomplish this task – the project itself should be a C# MVC project. You are encouraged to utilize scripting libraries such as jQuery and any plugins that leverage these libraries.
+
+Caution: I have left out other common aspects of programming like exception handling and logging, ORM, DDD, TDD, AOP etc.
+
